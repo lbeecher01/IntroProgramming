@@ -1,3 +1,4 @@
+# This program will add cars and pickup trucks into a list using classes
 print("Welcome to Virtual Garage.")
 class Vehicle:
   
